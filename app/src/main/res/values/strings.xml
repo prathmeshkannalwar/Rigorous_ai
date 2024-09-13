@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Rigorous Ai</string>
+    <string name="your_output_is_displaying_here">Your output is displaying here...</string>
+    <string name="prompt">Prompt</string>
+    <string name="submit"><![CDATA[>>Submit>>]]></string>
+    <string name="rigorous_ai">Rigorous Ai</string>
+</resources>
